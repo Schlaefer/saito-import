@@ -1,0 +1,4 @@
+#! /bin/bash
+# convenience alias for phinx
+
+vendor/bin/phinx "$@"

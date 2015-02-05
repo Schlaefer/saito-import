@@ -1,0 +1,8 @@
+{
+    "require": {
+        "robmorgan/phinx": "0.4.*"
+    },
+    "autoload": {
+      "psr-4": {"lib\\": "lib/"}
+    }
+}

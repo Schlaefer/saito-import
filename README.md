@@ -1,2 +1,7 @@
 # saito-import
-routines for importing data into Saito
+
+Routines for importing data into Saito. Abuses [Phinx]. Imports:
+
+- mylittleforum 2.1 to Saito 4.7
+
+[Phinx]: https://phinx.org/
